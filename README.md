@@ -67,6 +67,8 @@ Here’s what I discovered:
 - **Channel Partners** led with a remarkable profit margin of **73%**, while **Midmarket** followed at **28%**.
 - A deeper focus on underperforming segments like **Enterprise** can boost overall profitability.
 
+![Screenshot 2025-01-11 165153](https://github.com/user-attachments/assets/5a3161e2-d490-44f5-b976-2ce08c75cd56)
+
 ---
 
 ## Final Conclusion
